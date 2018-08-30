@@ -115,6 +115,7 @@ tags
 # Debug files
 *.dSYM/
 *.su
+*(copy).h
 
 # PlatformIO files/dirs
 .pio*
